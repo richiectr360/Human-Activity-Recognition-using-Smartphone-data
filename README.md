@@ -1,4 +1,4 @@
-# In-Depth Analysis of Human Activity Recognition Using Smartphone Sensors
+# Human Activity Recognition Using Smartphone Sensors
 
 ## Detailed Overview
 
